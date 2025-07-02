@@ -3,8 +3,8 @@ Add-Type -assembly System.Drawing
 
 #Image: 16x16px -> Button: 30x25
 
-$adb_path = "$PWD\scrcpy-win64-v2.2\adb.exe"
-$scrcpy_path = "$PWD\scrcpy-win64-v2.2\scrcpy.exe"
+$adb_path = "$PWD\scrcpy*\adb.exe"
+$scrcpy_path = "$PWD\scrcpy*\scrcpy.exe"
 $network_speed_preset = @("No Limit", "128kbps","256kbps","1Mbps","5Mbps","15Mbps")
 $buffer
 
