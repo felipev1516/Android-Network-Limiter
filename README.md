@@ -1,5 +1,5 @@
 <body>
-<h1>
+<h1 align=center>
   Android-Network-Limiter
 </h1>
 <h3>Preview:</h3>
